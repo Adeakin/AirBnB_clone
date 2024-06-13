@@ -1,1 +1,1 @@
-This is the readme for this web diretory.
+This directory implements webpage design.
